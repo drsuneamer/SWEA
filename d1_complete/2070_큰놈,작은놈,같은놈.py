@@ -1,4 +1,4 @@
-# 큰 놈, 작은 놈, 같은 놈   01 / 22 / 2022
+# 2022-01-22
 
 T = int(input())
 for test_case in range(1, T + 1):
